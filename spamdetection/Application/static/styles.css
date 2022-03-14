@@ -24,7 +24,7 @@ body{
 	font-family: sans-serif;
 	position: relative;
 	background: linear-gradient(45deg, #e01313, #050202, #61f054, #eeeeee, #e4261f, #d7e1ec);
-	background-size: 200% 200%;
+	background-size: 500% 500%;
 	animation: change-gradient 3s ease-in-out infinite;
 }
 @keyframes change-gradient {
@@ -131,5 +131,5 @@ body{
 }
 
 .gif{
-	width: 40%;
+	width: 30%;
 }
